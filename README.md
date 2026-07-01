@@ -58,7 +58,7 @@ To deliver a single-page, interactive view that:
 * **Product Strategy:** Category and size distributions inform inventory and product-line decisions.
 
 ## 📸 Screenshots / Demo
-
+https://github.com/Dhruvrwt/Amazon-Sales-Report-/blob/main/Snapshort%20of%20Amazon%20Dashbord.png
 
 ## 🚀 How to Use
 
